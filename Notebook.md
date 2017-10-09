@@ -1,7 +1,7 @@
 
 # Meetings
 
-* None yet attended
+* 10/09/17 - Joined impromptu meeting with Gregor and Juliette at 6pm CST
 
 # Weeks with no progress
 
