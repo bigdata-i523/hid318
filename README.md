@@ -18,12 +18,10 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Ryan Irey
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
+   - 318
+   title: Big Data Opportunities in Precision Medicine
    abstract: This paper showcases this and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
@@ -36,9 +34,9 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Ryan Irey
    hid:
-   - 000
+   - 318
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
