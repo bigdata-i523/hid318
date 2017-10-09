@@ -22,3 +22,4 @@
 # Writing
 
 * 09/25/17 Installed JabRef
+* 10/02/17 Paper 1 topic submitted and approved
