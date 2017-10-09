@@ -21,4 +21,4 @@
 
 # Writing
 
-* 09/25/17 Installed and Learned jabref
+* 09/25/17 Installed JabRef
