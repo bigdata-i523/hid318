@@ -19,7 +19,7 @@ paper1:
    - 318
    title: Big Data Opportunities in Precision Medicine
    abstract: This paper showcases this and that and the other
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
    type: latex
    status: in progress
    chapter: Health
@@ -35,7 +35,7 @@ paper2:
    - 318
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
+   url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf   
    type: word
    status: in progress
 ```
