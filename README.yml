@@ -1,0 +1,26 @@
+---
+owner:
+    hid: 318
+    name: Irey, Ryan
+    url: https://github.com/bigdata-i523/hid318
+paper1:
+    abstract: This paper showcases this and that and the other
+    author:
+        - Ryan Irey
+    chapter: Health
+    hid:
+        - 318
+    status: in progress
+    title: Big Data Opportunities in Precision Medicine
+    type: latex
+    url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Gregor von Laszewski
+    hid:
+        - 0
+    status: in progress
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
