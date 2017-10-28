@@ -4,7 +4,10 @@ owner:
     name: Irey, Ryan
     url: https://github.com/bigdata-i523/hid318
 paper1:
-    abstract: This paper showcases this and that and the other
+    abstract: Precision medicine (PM) refers to the nationwide initiative to incorporate individual differences 
+    into disease treatment and prevention. The initiative, supported by the National Institutes of Health (NIH), 
+    leverages the sophistication of big data analytics and cloud computing infrastructures toward increasing the 
+    efficacy of individualized care.
     author:
         - Ryan Irey
     chapter: Health
