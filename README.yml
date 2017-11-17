@@ -25,6 +25,7 @@ paper2:
     abstract: This paper showcases tis and that and the other
     author:
         - Gregor von Laszewski
+    chapter: Technology
     hid:
         - 0
     status: in progress
