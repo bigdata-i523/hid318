@@ -13,7 +13,7 @@
 
 # Theory
 
-* 
+* 10/23/17-11/17/17 Viewed theory videos
 
 # Practice
 
@@ -23,3 +23,4 @@
 
 * 09/25/17 Installed JabRef
 * 10/02/17 Paper 1 topic submitted and approved
+* 12/07/17 Paper 2 topic submitted, rejected; topic under revision
