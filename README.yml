@@ -19,7 +19,6 @@ paper1:
         - 318
     status: in progress
     title: Big Data Opportunities in Precision Medicine
-    type: latex
     url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
 paper2:
     exclude: True
@@ -32,7 +31,6 @@ paper2:
         - 318
     status: 0%
     title: TBD
-    type: latex
     url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
 project:
     exclude: True
