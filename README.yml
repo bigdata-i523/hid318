@@ -17,21 +17,29 @@ paper1:
     chapter: Health
     hid:
         - 318
-    status: in progress
+    status: Jul 02 2018 50%
     title: Big Data Opportunities in Precision Medicine
     url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
 paper2:
     exclude: True
-    review: Nov 30 2017
-    abstract: This paper showcases tis and that and the other
+    review: Jul 28 2018
+    abstract: > 
+        This 'mini-project' will result in a manual detailing the setup 
+        process of a Raspberry Pi cluster with two manager nodes and six 
+        worker nodes. The cluster setup will be accomplished using Fabric
+        which is a Python library that executes shell commands remotely 
+        over SSH, and is thus a powerful tool to leverage in the creation 
+        of a cluster. The cluster will run a Docker Swarm environment. The 
+        manual culminates with the execution of a simple visual web server 
+        that displays each node and the services running on each node.
     author:
         - Irey, Ryan
     chapter: Technology
     hid:
         - 318
-    status: 0%
-    title: TBD
-    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
+    status: Jul 02 2018 0%
+    title: Docker Swarm Initialization using Raspberry Pi and Fabric
+    url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf
 project:
     exclude: True
     review: Dec 4 2017
