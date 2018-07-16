@@ -38,7 +38,7 @@ paper2:
     hid:
         - 318
     status: Jul 02 2018 0%
-    title: Docker Swarm Initialization using Raspberry Pi and Fabric
+    title: Local Raspberry Pi Cluster Initialization using Docker Swarm and Fabric
     url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf
 project:
     exclude: True
