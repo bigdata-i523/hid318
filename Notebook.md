@@ -18,9 +18,12 @@
 # Practice
 
 * 08/24/17 Enabled Python 2 and 3 via pyenv on OSX
+* 6/1/17 Commenced construction of Raspberry Pi cluster
+* 6/7/17 Learned how to use Fabric and Docker APIs for Python
 
 # Writing
 
 * 09/25/17 Installed JabRef
 * 10/02/17 Paper 1 topic submitted and approved
 * 12/07/17 Paper 2 topic submitted, rejected; topic under revision
+* 7/29/17 Paper 1 complete; committed to repository
