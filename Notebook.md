@@ -26,4 +26,4 @@
 * 09/25/17 Installed JabRef
 * 10/02/17 Paper 1 topic submitted and approved
 * 12/07/17 Paper 2 topic submitted, rejected; topic under revision
-* 7/29/17 Paper 1 complete; committed to repository
+* 8/5/18 Paper 1 complete; committed to repository
