@@ -4,7 +4,7 @@ owner:
     name: Irey, Ryan
     url: https://github.com/bigdata-i523/hid318
 paper1:
-    exclude: True
+    exclude: False
     abstract: >
        Precision medicine (PM) refers to the nationwide initiative to
        incorporate individual differences into disease treatment and
@@ -17,41 +17,40 @@ paper1:
     chapter: Health
     hid:
         - 318
-    status: Jul 02 2018 50%
+    status: Aug 12 2018 75%
     title: Big Data Opportunities in Precision Medicine
     url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
 paper2:
-    exclude: True
-    review: Jul 28 2018
+    exclude: False
+    review: Sept 28 2018
     abstract: > 
-        This 'mini-project' will result in a manual detailing the setup 
-        process of a Raspberry Pi cluster with two manager nodes and six 
-        worker nodes. The cluster setup will be accomplished using Fabric
-        which is a Python library that executes shell commands remotely 
-        over SSH, and is thus a powerful tool to leverage in the creation 
-        of a cluster. The cluster will run a Docker Swarm environment. The 
-        manual culminates with the execution of a simple visual web server 
-        that displays each node and the services running on each node.
+        Docker’s swarm mode allows for the use of their automated container 
+        distribution technology across a cluster of computers on ashared subnet. 
+        Each node of the swarm takes on the role of either a manger or a worker. 
+        One may foresee that the initial setupand management of each node could be 
+        a cumbersome experience,especially for swarms with many nodes. To mitigate 
+        this problem, a Python package called Fabric can be used to execute shell 
+        commands over ssh.
     author:
         - Irey, Ryan
     chapter: Technology
     hid:
         - 318
-    status: Jul 02 2018 0%
-    title: Local Raspberry Pi Cluster Initialization using Docker Swarm and Fabric
+    status: Jul 02 2018 25%
+    title: Creating a Docker Swarm with Fabric and Raspberry Pi
     url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf
 project:
-    exclude: True
-    review: Dec 4 2017
+    exclude: False
+    review: Sept 28 2018
     author:
         - Irey, Ryan
     hid:
         - 318
-    title: null
+    title: Docker Swarm Benchmarking with VirtualBox and Boot2Docker
     abstract: >
-        We showcase tis and that and the other
+        We showcase this and that and the other
         and another line.
-    url: https://github.com/bigdata-i523/sample-hid000/project/
+    url: https://github.com/bigdata-i523/hid318/project/project.pdf
     type: project
-    status: Dec 04 17 0%
+    status: Aug 12 2018 30%
     chapter: TBD
