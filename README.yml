@@ -36,7 +36,7 @@ paper2:
     chapter: Technology
     hid:
         - 318
-    status: Jul 02 2018 25%
+    status: Jul 02 2018 50%
     title: Creating a Docker Swarm with Fabric and Raspberry Pi
     url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf
 project:
@@ -53,4 +53,4 @@ project:
     url: https://github.com/bigdata-i523/hid318/project/project.pdf
     type: project
     status: Aug 12 2018 30%
-    chapter: TBD
+    chapter: Technology
