@@ -22,7 +22,7 @@ paper1:
     url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
 paper2:
     exclude: False
-    review: Sept 28 2018
+    review: Aug 24 2018
     abstract: > 
         Docker’s swarm mode allows for the use of their automated container 
         distribution technology across a cluster of computers on ashared subnet. 
@@ -36,7 +36,7 @@ paper2:
     chapter: Technology
     hid:
         - 318
-    status: Jul 02 2018 99%
+    status: Aug 24 2018 99%
     title: Creating a Docker Swarm with Fabric and Raspberry Pi
     url: https://github.com/bigdata-i523/hid318/blob/master/paper2/i523_paper2.pdf
 project:
