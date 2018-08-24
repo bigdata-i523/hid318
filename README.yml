@@ -36,7 +36,7 @@ paper2:
     chapter: Technology
     hid:
         - 318
-    status: Jul 02 2018 50%
+    status: Jul 02 2018 99%
     title: Creating a Docker Swarm with Fabric and Raspberry Pi
     url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf
 project:
@@ -46,10 +46,15 @@ project:
         - Irey, Ryan
     hid:
         - 318
-    title: Docker Swarm Benchmarking with VirtualBox and Boot2Docker
+    title: Using Docker to Benchmark Virtual Machines
     abstract: >
-        We showcase this and that and the other
-        and another line.
+        VirtualBox, a commercially-available hypervisor maintained byOracle, allows for 
+        the creation of lightweight, Docker-ready virtualmachines running the Boot2Docker  
+        operating system. This project articulates a formula for the creation of a VirtualBox 
+        Boot2Docker virtual machine, and demonstrates how the performance of the virtual machine 
+        can be benchmarked using popular utilities such assysbenchandstress-ng. The project will 
+        culminate with a simple Python application for collecting, persisting, and visualizing 
+        the benchmark data.
     url: https://github.com/bigdata-i523/hid318/project/project.pdf
     type: project
     status: Aug 12 2018 30%
