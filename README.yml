@@ -38,7 +38,7 @@ paper2:
         - 318
     status: Jul 02 2018 99%
     title: Creating a Docker Swarm with Fabric and Raspberry Pi
-    url: https://github.com/bigdata-i523/hid318/paper2/paper2.pdf
+    url: https://github.com/bigdata-i523/hid318/blob/master/paper2/i523_paper2.pdf
 project:
     exclude: False
     review: Sept 28 2018
