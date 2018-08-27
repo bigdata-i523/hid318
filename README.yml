@@ -5,6 +5,7 @@ owner:
     url: https://github.com/bigdata-i523/hid318
 paper1:
     exclude: False
+    review: Aug 27 2018
     abstract: >
        Precision medicine (PM) refers to the nationwide initiative to
        incorporate individual differences into disease treatment and
@@ -17,12 +18,12 @@ paper1:
     chapter: Health
     hid:
         - 318
-    status: Aug 12 2018 75%
-    title: Big Data Opportunities in Precision Medicine
-    url: https://github.com/bigdata-i523/hid318/paper1/paper1.pdf
+    status: Aug 27 2018 99%
+    title: Big Data in Precision Medicine
+    url: https://github.com/bigdata-i523/hid318/blob/master/paper1/i523_paper1.pdf
 paper2:
     exclude: False
-    review: Aug 24 2018
+    review: Aug 27 2018
     abstract: > 
         Docker’s swarm mode allows for the use of their automated container 
         distribution technology across a cluster of computers on ashared subnet. 
@@ -36,12 +37,12 @@ paper2:
     chapter: Technology
     hid:
         - 318
-    status: Aug 24 2018 99%
+    status: Aug 27 2018 99%
     title: Creating a Docker Swarm with Fabric and Raspberry Pi
     url: https://github.com/bigdata-i523/hid318/blob/master/paper2/i523_paper2.pdf
 project:
     exclude: False
-    review: Sept 28 2018
+    review: Sep 28 2018
     author:
         - Irey, Ryan
     hid:
@@ -52,10 +53,10 @@ project:
         the creation of lightweight, Docker-ready virtualmachines running the Boot2Docker  
         operating system. This project articulates a formula for the creation of a VirtualBox 
         Boot2Docker virtual machine, and demonstrates how the performance of the virtual machine 
-        can be benchmarked using popular utilities such assysbenchandstress-ng. The project will 
+        can be benchmarked using popular utilities such as sysbench and stress-ng. The project will 
         culminate with a simple Python application for collecting, persisting, and visualizing 
         the benchmark data.
-    url: https://github.com/bigdata-i523/hid318/project/project.pdf
+    url: 
     type: project
-    status: Aug 12 2018 30%
+    status: Aug 27 2018 40%
     chapter: Technology
