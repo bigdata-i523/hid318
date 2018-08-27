@@ -29,6 +29,6 @@
 * 12/07/17 Paper 2 topic submitted, rejected; topic under revision
 * 07/02/18 Paper 2 topic submitted and approved
 * 08/15/18 Project topic submitted and approved
-* 08/24/18 Paper 2 complete; committed to repository
-* 08/25/18 Paper 1 complete; committed to repository
-* 08/26/18 Project topic revision requested; awaiting approval
+* 08/27/18 Paper 1 complete; committed to repository
+* 08/27/18 Paper 2 complete; committed to repository
+* 08/28/18 Project topic revision requested; awaiting approval
